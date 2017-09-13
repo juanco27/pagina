@@ -1,0 +1,23 @@
+
+.ed-container {
+
+    border-style: solid;
+    margin-top: 300px;
+    
+ 
+}
+.ed-item{
+    
+    border-style: solid;
+}
+
+p{
+    color:red;
+    text-align: center;
+    
+}
+ul{
+    background:black;
+    margin-top: 5px;
+}
+
